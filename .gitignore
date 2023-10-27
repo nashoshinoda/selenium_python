@@ -1,2 +1,4 @@
+/lessons/*
+/reports/screenshots/*
 /venv3/*
-/oop_exercises/*
+*.txt
